@@ -3,3 +3,5 @@ esta es la historia de Royer Chavez
 Royer Chavez tiene 21 años y nació en Perú.
 
 Hoy hablaremos de su vida laboral en los datos.
+
+vamos a hacer un git reset soft haber que pasa
