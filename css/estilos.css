@@ -48,6 +48,13 @@ body
     background: white;
     padding: 1em;
 }
+#post #foto
+{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1em;
+}
 #footer
 {
     background: #777;
