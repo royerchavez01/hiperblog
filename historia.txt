@@ -4,6 +4,8 @@ Royer Chavez tiene 21 años y nació en Perú.
 
 Hoy hablaremos de su vida laboral en los datos.
 
+MASTER 1
+
 vamos a hacer un git reset soft haber que pasa
  y si esto aparece es porque sacamos poco a poco del .git directory el comit HEAD
  y ahora lo hemos modificado y añadido otro commit, en otras palabras hemos hecho el
