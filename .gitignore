@@ -1,2 +1,2 @@
-*.jpg
-*modeloia.png
+/imagenes/*
+!/imagenes/dragon.png
